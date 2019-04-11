@@ -65,7 +65,7 @@ Note:
 For integer division in Python 3 use //.'''
 
 
-n=int(input("Enter number of test cases"))
+n=int(input("Enter number of test cases"))    # CODE BEGINS
 for i in range(0,n):
     a,b=list(input("enter a and b").split(" "))
     try:
